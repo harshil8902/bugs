@@ -1,0 +1,22 @@
+{
+  "name": "newfolder",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/harshil8902/bugs.git"
+  },
+  "keywords": [
+    "Harshil"
+  ],
+  "author": "Harshil",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/harshil8902/bugs/issues"
+  },
+  "homepage": "https://github.com/harshil8902/bugs#readme"
+}
